@@ -1,0 +1,7 @@
+openai
+pandas
+numpy
+faiss-cpu
+scikit-learn
+ipywidgets
+tqdm
